@@ -1,1 +1,1 @@
-# real-estate-entry
+Arayüz ve Frontend kodları tamamen kendime aittir. Örnek template ve linklendirme amaçlı yapılmıştır. Herhangi bir şekilde kar amacı güdülmemiştir.
