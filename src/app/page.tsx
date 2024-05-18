@@ -194,7 +194,7 @@ export default function Giris() {
             </Box>
 
             <Typography className={classes.titleText}>
-              Neden Garanti Alıcam'ı Tercih Etmelisiniz?
+              Neden Real Estate Entry'i Tercih Etmelisiniz?
             </Typography>
             <List>{textItemList(listText)}</List>
             <Box className={classes.registerBtns}>

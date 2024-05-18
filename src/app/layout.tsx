@@ -10,7 +10,7 @@ type Metadata = {
 };
 
 export const metadata: Metadata = {
-  title: "Garanti Alıcam",
+  title: "Real Estate Entry",
   description: "Hayallerinizde ki Evi Hemen Alın!",
 };
 
